@@ -65,4 +65,4 @@ Run tests:
 - This is spec-driven, not natural-language-to-diagram; use the agent to create the JSON spec first.
 - QA currently checks text against connector segments and bitmap aspect, not every text/shape-border interaction or glyph formation. Visual review is mandatory.
 - PNG renderer is Windows only. SVG editing works elsewhere, but target-viewer Thai correctness is unverified.
-- No HyperFrames, Office/Word export, GitHub publish or speed benchmark in alpha.
+- No HyperFrames, Office/Word export or performance benchmark in alpha; this repository is a public alpha source snapshot, not a stable release.
