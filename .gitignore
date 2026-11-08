@@ -1,0 +1,12 @@
+# Never ship test output, Lab inputs, temporary data or secrets
+/_test_outputs/
+/_release_candidate/
+**/__pycache__/
+*.pyc
+*.pyo
+*.bbox.json
+*.background.png
+*.text.json
+*.qa.json
+.env
+.env.*

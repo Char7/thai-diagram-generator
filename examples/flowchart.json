@@ -1,0 +1,179 @@
+{
+  "canvas": {
+    "width": 1000,
+    "height": 1400
+  },
+  "scale": 2,
+  "font": "Tahoma",
+  "background": "#FFFFFF",
+  "shapes": [
+    {
+      "type": "ellipse",
+      "x": 65,
+      "y": 405,
+      "w": 170,
+      "h": 110,
+      "fill": "#EBF6FF",
+      "stroke": "#7BB0EA"
+    },
+    {
+      "type": "rect",
+      "x": 295,
+      "y": 405,
+      "w": 195,
+      "h": 110,
+      "radius": 20,
+      "fill": "#EFF3FD",
+      "stroke": "#A5BCE7"
+    },
+    {
+      "type": "diamond",
+      "x": 555,
+      "y": 370,
+      "w": 165,
+      "h": 170,
+      "fill": "#FFF3DA",
+      "stroke": "#CF9B3C"
+    },
+    {
+      "type": "ellipse",
+      "x": 795,
+      "y": 405,
+      "w": 145,
+      "h": 110,
+      "fill": "#E8F8ED",
+      "stroke": "#8FCDA5"
+    }
+  ],
+  "connectors": [
+    {
+      "points": [
+        [
+          235,
+          460
+        ],
+        [
+          282,
+          460
+        ]
+      ],
+      "arrow": true
+    },
+    {
+      "points": [
+        [
+          490,
+          460
+        ],
+        [
+          542,
+          460
+        ]
+      ],
+      "arrow": true
+    },
+    {
+      "points": [
+        [
+          720,
+          460
+        ],
+        [
+          780,
+          460
+        ]
+      ],
+      "arrow": true
+    },
+    {
+      "points": [
+        [
+          637.5,
+          540
+        ],
+        [
+          637.5,
+          690
+        ],
+        [
+          390,
+          690
+        ],
+        [
+          390,
+          528
+        ]
+      ],
+      "arrow": true
+    }
+  ],
+  "texts": [
+    {
+      "value": "ผังงานแบบมีทางเลือก",
+      "x": 65,
+      "y": 140,
+      "size": 64,
+      "bold": true
+    },
+    {
+      "value": "คำกำกับเส้นต้องอยู่ในพื้นที่ว่าง",
+      "x": 65,
+      "y": 205,
+      "size": 36,
+      "color": "#56708B"
+    },
+    {
+      "value": "เริ่มต้น",
+      "x": 150,
+      "y": 476,
+      "size": 37,
+      "bold": true,
+      "anchor": "middle"
+    },
+    {
+      "value": "ตรวจ",
+      "x": 392.5,
+      "y": 476,
+      "size": 35,
+      "bold": true,
+      "anchor": "middle"
+    },
+    {
+      "value": "ครบ?",
+      "x": 637.5,
+      "y": 478,
+      "size": 37,
+      "bold": true,
+      "anchor": "middle"
+    },
+    {
+      "value": "สิ้นสุด",
+      "x": 867.5,
+      "y": 476,
+      "size": 32,
+      "bold": true,
+      "anchor": "middle"
+    },
+    {
+      "value": "ใช่",
+      "x": 742,
+      "y": 406,
+      "size": 30,
+      "color": "#236A52"
+    },
+    {
+      "value": "ไม่ใช่",
+      "x": 683,
+      "y": 625,
+      "size": 31,
+      "color": "#AE5A35"
+    },
+    {
+      "value": "ตัวอย่างอิสระสำหรับทดสอบระยะห่างข้อความกับลูกศร",
+      "x": 65,
+      "y": 1250,
+      "size": 26,
+      "color": "#60738B"
+    }
+  ]
+}
